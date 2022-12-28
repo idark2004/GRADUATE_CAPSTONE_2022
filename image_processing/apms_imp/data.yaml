@@ -1,0 +1,5 @@
+names:
+- License Plate
+nc: 1
+train: d:\fpt\semester_9\SWP49X\model\test\Images\train
+val: d:\fpt\semester_9\SWP49X\model\test\Images\val

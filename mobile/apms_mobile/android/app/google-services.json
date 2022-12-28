@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1041561578315",
+    "firebase_url": "https://apms-48bd5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "apms-48bd5",
+    "storage_bucket": "apms-48bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041561578315:android:114e3242ba4c1b359896ce",
+        "android_client_info": {
+          "package_name": "com.example.apms_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041561578315-2cu7u38lkl7n8erv961u4sfggl7vq62k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbTr-OzhzXOTx30fxe1BqI4olwm3-AT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041561578315-2cu7u38lkl7n8erv961u4sfggl7vq62k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
